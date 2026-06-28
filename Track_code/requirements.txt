@@ -1,0 +1,16 @@
+opencv-python
+Cython
+numba
+progress
+matplotlib
+easydict
+scipy
+pyquaternion
+nuscenes-devkit
+pyyaml
+motmetrics
+scikit-learn
+thop
+scikit-image
+filterpy
+pycocotools

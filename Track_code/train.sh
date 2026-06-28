@@ -1,0 +1,1 @@
+python train.py --model_name ResFPN --gpus 0 --lr 1.25e-4 --lr_step 14 --num_epochs 30 --batch_size 4 --seqLen 5 --datasetname ICPR --data_dir  ./data/ICPR/
